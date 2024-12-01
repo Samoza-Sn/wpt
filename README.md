@@ -1,4 +1,4 @@
-The web-platform-tests Project
+d8054ad1dea03a34bffcb4741cbfef9b8658b39c The web-platform-tests Project
 ==============================
 
 [![Taskcluster CI Status](https://community-tc.services.mozilla.com/api/github/v1/repository/web-platform-tests/wpt/master/badge.svg)](https://community-tc.services.mozilla.com/api/github/v1/repository/web-platform-tests/wpt/master/latest) [![documentation](https://github.com/web-platform-tests/wpt/workflows/documentation/badge.svg)](https://github.com/web-platform-tests/wpt/actions?query=workflow%3Adocumentation+branch%3Amaster) [![manifest](https://github.com/web-platform-tests/wpt/workflows/manifest/badge.svg)](https://github.com/web-platform-tests/wpt/actions?query=workflow%3Amanifest+branch%3Amaster) [![Python 3](https://pyup.io/repos/github/web-platform-tests/wpt/python-3-shield.svg)](https://pyup.io/repos/github/web-platform-tests/wpt/)
