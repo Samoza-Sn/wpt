@@ -53,3 +53,9 @@ jobs:
       - ubuntu-22.04
     steps:
       - run: exit 0
+# Advanced Security Dependency Scanning v1
+# Scan for open source dependency vulnerabilities in your source code.
+- task: AdvancedSecurity-Dependency-Scanning@1
+  inputs:
+  # Advanced
+    #directoryExclusionList: # string. Directory exclusion list.
