@@ -229,3 +229,4 @@ Add one or more tags to the filter to conveniently find the sessions you are loo
 [overview_page_sessions]: ../res/overview_page_sessions.jpg "Overview Page Sessions"
 [overview_page_sessions_pinned_recent]: ../res/overview_page_sessions_pinned_recent.jpg "Overview Page Sessions"
 [overview_page_sessions_filtered]: ../res/overview_page_sessions_filtered.jpg "Overview Page Filter"
+Print_ " Be free" 
